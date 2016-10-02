@@ -1,0 +1,88 @@
+
+notvlc
+{
+    border-color: red;
+}
+
+vlc
+{
+    border-color: #FFCECE;
+}
+#divcover
+{ 
+    background-image: url(../images/admission.jpg);
+    height:240px;
+    width: 2300px;
+     border-style: outset; 
+}
+
+#divlogo
+{ 
+    background-image: url(../images/logo.jpg);
+    height:200px;
+    width: 200px;
+    
+}
+
+#divintro
+{
+    border-radius: 10px;
+    margin-left: 430px;
+    margin-top:40px;
+    width:500px;
+    height:300px;
+    background-color: white;
+     border-color : #aaa; 
+    border-width: 1px;
+    border-style: solid;  
+}    
+
+#divu
+{
+    border-radius: 10px;
+    margin-left: 430px;
+    margin-top: 40px;
+    width:450px;
+    height:270px;
+    background-color: white;
+     border-color : #aaa; 
+    border-width: 1px;
+    border-style: solid;  
+}    
+
+#tabintro
+{
+    width:500px;
+    height:250px;
+}
+
+input[type="text"]
+{
+    border-radius: 3px;
+    height:30px;
+    width:270px;
+    margin-left: 40px;
+    border-style: outset; 
+}
+
+input[type="password"]
+{
+    border-radius: 3px;
+    height:30px;
+    width:270px;
+    margin-left: 40px;
+    border-style: outset; 
+}
+
+input[type="submit"]
+{
+     height:35px;
+     width:200px;
+     background-color: #ccccff;
+     border-radius: 10px; 
+     font-size: 15px;
+     font-weight: bold;
+     font-family: Verdana; 
+     border-style: outset; 
+}
+

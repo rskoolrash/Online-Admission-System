@@ -1,0 +1,30 @@
+/* 
+    Document   : GRID
+    Created on : Jul 14, 2014, 1:49:37 PM
+    Author     : wasim
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+
+.custom-combobox {
+        position: relative;
+        display: block;
+        width:100%;
+}
+.custom-combobox-toggle {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        margin-left: -1px;
+        padding: 0;
+}
+.custom-combobox-input {
+        margin: 0;
+        padding: 5px 10px;
+        width:350px;
+}

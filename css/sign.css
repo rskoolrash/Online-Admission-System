@@ -1,0 +1,117 @@
+        
+            .inpterr
+            {
+                border: 1px solid red;
+                background: #FFCECE;
+
+            }
+            
+            .inpterrc
+            {
+                border: 1px solid black;
+                background: white;
+            }
+        
+
+
+#dhead
+{ 
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    height:160px;
+    width:1337px;
+    
+}
+
+
+#ddown
+{
+    height:440px;
+    width:1338px;
+    display: block;
+    
+}
+
+#dleft
+{
+    box-shadow: 0px 0px 15px #999999; 
+    float: left;
+    margin-left:145px;
+    height:470px;
+    width:500px;
+    border-top-left-radius:15px;
+    border-bottom-left-radius:15px;
+}
+#drig
+{
+    border-top-right-radius:15px;
+    border-bottom-right-radius:15px;
+    height:470px;
+    width:500px;
+    box-shadow: 0px 0px 15px #999999; 
+    background-image:url(../images/bgsig.jpg);
+    margin-left:697px;
+    
+}
+
+#tabintro
+{
+    
+    width:500px;
+    height:250px;
+     
+}
+
+
+notvlc
+{
+    border-color: red;
+}
+
+vlc
+{
+    border-color: #FFCECE;
+}
+
+input[type="text"]
+{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    height:35px;
+    width:380px;
+    border-style: none; 
+    margin-left: 30px;
+    box-shadow: 2px 1px 5px #999999; 
+}
+
+input[type="password"]
+{
+    border-radius: 3px;
+    height:35px;
+    width:380px;
+    border-style: solid; 
+}
+
+
+input[type="email"]
+{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    height:35px;
+    width:380px;
+    border-style: none; 
+    margin-left: 30px;
+    box-shadow: 2px 1px 5px #999999; 
+}
+
+
+input[type="number"]
+{
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    height:35px;
+    width:380px;
+    border-style: none; 
+    margin-left: 30px;
+    box-shadow: 2px 1px 5px #999999; 
+}
